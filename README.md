@@ -1,4 +1,8 @@
-This script is a network diagnostic tool that retrieves and displays various details about the user's internet connection. Here's a breakdown of its functionality:
+This script is a network diagnostic tool that retrieves and displays various details about the user's internet connection. 
+
+![2](https://github.com/user-attachments/assets/ad900787-b60b-4745-b02f-bbc8a0793b23)
+
+Here's a breakdown of its functionality:
 Features
 
     Retrieves Public IP Address & ISP
@@ -14,10 +18,12 @@ Features
     Performs an Internet Speed Test
         Uses the speedtest module to measure download and upload speeds.
         
+![1](https://github.com/user-attachments/assets/bc603b3b-4887-4a38-810b-69c3eda520fe)
+
 Example of output in JSON:
 
 When run, the script will output a JSON response like this:
-
+```
 {
     "public_ip": {
         "ip": "192.168.1.1",
@@ -39,4 +45,4 @@ When run, the script will output a JSON response like this:
         "upload_speed": "20.00 Mbps"
     }
 }
-
+```
