@@ -2,6 +2,28 @@ This script is a network diagnostic tool that retrieves and displays various det
 
 ![2](https://github.com/user-attachments/assets/ad900787-b60b-4745-b02f-bbc8a0793b23)
 
+Installation:
+```
+git clone https://github.com/WhoamiGroot/Whats-IP
+```
+```
+pip install speedtest-cli
+```
+or
+```
+easy_install speedtest-cli
+```
+```
+pip install requests
+```
+```
+pip install dnspython
+```
+Run the script:
+```
+Python3 whatsip.py
+```
+
 Here's a breakdown of its functionality:
 Features
 
