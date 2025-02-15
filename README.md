@@ -1,3 +1,7 @@
+UPDATED!
+Results are redacted.
+![4](https://github.com/user-attachments/assets/56eaf8af-09b7-4d22-9333-f95d5dc903fc)
+
 This script is a network diagnostic tool that retrieves and displays various details about the user's internet connection. 
 
 ![2](https://github.com/user-attachments/assets/ad900787-b60b-4745-b02f-bbc8a0793b23)
